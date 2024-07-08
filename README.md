@@ -1,1 +1,1 @@
-# MEAN_Assignments
+# MEAN_Course
